@@ -1,0 +1,10 @@
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\bin\Debug\TinhLaiSuat.exe.config
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\bin\Debug\TinhLaiSuat.exe
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\bin\Debug\TinhLaiSuat.pdb
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.csproj.AssemblyReference.cache
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.Form1.resources
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.Properties.Resources.resources
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.csproj.GenerateResource.cache
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.csproj.CoreCompileInputs.cache
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.exe
+C:\Users\hien\source\repos\TinhLaiSuat\TinhLaiSuat\obj\Debug\TinhLaiSuat.pdb
